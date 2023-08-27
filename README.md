@@ -6,6 +6,5 @@
 ![捕获](https://github.com/wangHansss/MAP_SYS_BFS/assets/62416458/ecccebda-f68b-4e99-a4a5-fa6952fc03ad)
 
 点击查询按钮后界面截图：
-![捕获](https://github.com/wangHansss/MAP_SYS_BFS/assets/62416458/b6679d4a-4587-496e-a8b9-ffcdd38280be)
 ![捕获1](https://github.com/wangHansss/MAP_SYS_BFS/assets/62416458/4a05855c-f28e-4c35-8413-f17e1cedf048)
 
